@@ -1,0 +1,173 @@
+{
+  "id" : 756189,
+  "type" : "Sport",
+  "title" : "Fußball: Bundesliga Mittwochs-Konferenz, 16. Spieltag",
+  "subtitle" : "Live BL: Mittwochs-Konferenz, 16. Spieltag",
+  "lenght" : 120,
+  "current_type" : "Live",
+  "technical_event" : {
+    "on_air" : {
+      "start_date" : "2016/12/21",
+      "end_date" : "2016/12/21",
+      "start_time" : "19:00",
+      "end_time" : "22:00"
+    },
+    "program" : {
+      "start_date" : "",
+      "end_date" : "",
+      "start_time" : "",
+      "end_time" : ""
+    },
+    "sport" : {
+      "start_date" : "2016/12/21",
+      "end_date" : "2016/12/29",
+      "start_time" : "22:00",
+      "end_time" : "00:00"
+    }
+  },
+  "flag_live" : "yes",
+  "flag_simulcast" : "yes",
+  "parental_rating" : {
+    "value" : 1,
+    "display" : ""
+  },
+  "main_picture" : {
+    "picture" : [
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_videowall_home.jpg",
+          "height" : 126,
+          "path" : "/bin/Picture/774",
+          "type" : "videowall_home",
+          "width" : 225
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_videowall_landing.jpg",
+          "height" : 112,
+          "path" : "/bin/Picture/58",
+          "type" : "videowall_landing",
+          "width" : 201
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_1.jpg",
+          "height" : 110,
+          "path" : "/bin/Picture/920",
+          "type" : "content_1",
+          "width" : 196
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_2.jpg",
+          "height" : 226,
+          "path" : "/bin/Picture/399",
+          "type" : "content_2",
+          "width" : 402
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_3.jpg",
+          "height" : 342,
+          "path" : "/bin/Picture/878",
+          "type" : "content_3",
+          "width" : 608
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_4.jpg",
+          "height" : 383,
+          "path" : "/bin/Picture/357",
+          "type" : "content_4",
+          "width" : 680
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_5.jpg",
+          "height" : 187,
+          "path" : "/bin/Picture/836",
+          "type" : "content_5",
+          "width" : 332
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_content_6.jpg",
+          "height" : 149,
+          "path" : "/bin/Picture/315",
+          "type" : "content_6",
+          "width" : 265
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_gallery.jpg",
+          "height" : 152,
+          "path" : "/bin/Picture/655",
+          "type" : "gallery",
+          "width" : 270
+        },
+        {
+          "contenttype" : "image/jpeg",
+          "file" : "C_1_Picture_155579_hero_img.jpg",
+          "height" : 1152,
+          "path" : "/bin/Picture/959",
+          "type" : "hero_img",
+          "width" : 2048
+        } ]
+  },
+  "category" : {
+    "main" : {
+      "id" : 31,
+      "apix_id" : "spo_buli_buli",
+      "content" : "Bundesliga"
+    },
+    "other" : [ {
+      "id" : 3,
+      "content" : "Fußball Bundesliga"
+    } ]
+  },
+  "main_root_category" : {
+    "id" : 13,
+    "apix_id" : "sport",
+    "content" : "Sport"
+  },
+  "asset_type" : "Sport",
+  "channel_name" : "Sky Bundesliga 1_NEU",
+  "channel_code" : "SKYBL01",
+  "media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262178/bulihd01/master.m3u8",
+  "apix_id" : 115281,
+  "event_id" : 93706465,
+  "package_code" : "OFBS",
+  "package_color_code" : "OFBS",
+  "webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-mittwochs-konferenz--16--spieltag/asset/sportsection/756189.html",
+  "license" : {
+    "internet" : 1,
+    "mobile" : 0
+  },
+  "socialGroupIds" : {
+    "social" : [ {
+      "id" : 12
+    }, {
+      "id" : 5
+    }, {
+      "id" : 11
+    }, {
+      "id" : 3
+    }, {
+      "id" : 9
+    }, {
+      "id" : 10
+    } ]
+  },
+  "webplayer_config" : {
+    "playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756189.xml",
+    "isVod" : false,
+    "showLiveIcon" : true,
+    "isHd" : true,
+    "contentType" : "LIVE",
+    "productOwner" : "SKYGO",
+    "assetThumbnail" : "/bin/Picture/357/C_1_Picture_155579_content_4.jpg",
+    "assetTitle" : "Fußball: Bundesliga Mittwochs-Konferenz, 16. Spieltag",
+    "seriesId" : 0
+  },
+  "logo" : "/sg/bin/ImageRepository/web/channel/23986.png"
+}

@@ -1,0 +1,5487 @@
+{
+	"listing" : {
+		"type" : "SportEvents",
+		"category" : {
+			"id" : 13,
+			"label" : "Sport"
+		},
+		"info" : {
+			"description" : "Sport"
+		},
+		"listing" : {
+			"records" : 32,
+			"asset" : [
+					{
+						"id" : 756189,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga Mittwochs-Konferenz, 16. Spieltag",
+						"subtitle" : "Live BL: Mittwochs-Konferenz, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:00",
+								"end_time" : "22:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/774",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/58",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/920",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/399",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/878",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/357",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/836",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/315",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/655",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155579_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/959",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 1_NEU",
+						"channel_code" : "SKYBL01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262178/bulihd01/master.m3u8",
+						"apix_id" : 115281,
+						"event_id" : 93706465,
+						"package_code" : "OFBS",
+						"package_color_code" : "OFBS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-mittwochs-konferenz--16--spieltag/asset/sportsection/756189.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756189.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/357/C_1_Picture_155579_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga Mittwochs-Konferenz, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23986.png"
+					},
+					{
+						"id" : 756190,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga 1. FC Köln - Bayer Leverkusen, 16. Spieltag",
+						"subtitle" : "Live BL: 1. FC Köln - Bayer Leverkusen, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:45",
+								"end_time" : "22:05"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:05",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/714",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/530",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/128",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/649",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/170",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/691",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/212",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/733",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/217",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155582_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/847",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 3_NEU",
+						"channel_code" : "SKYBL03",
+						"media_url_hls" : "http://livehlsit2-i.akamaihd.net/hls/live/262171/bulihd03/master.m3u8",
+						"apix_id" : 115282,
+						"event_id" : 93706464,
+						"package_code" : "OFBP",
+						"package_color_code" : "OFBP",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-1--fc-koeln---bayer-leverkusen--16--spieltag/asset/sportsection/756190.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756190.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/691/C_1_Picture_155582_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga 1. FC Köln - Bayer Leverkusen, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22807.png"
+					},
+					{
+						"id" : 756193,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga 1899 Hoffenheim - Werder Bremen, 16. Spieltag",
+						"subtitle" : "BL: 1899 Hoffenheim - Werder Bremen, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:45",
+								"end_time" : "22:05"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:05",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/489",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/285",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/359",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/838",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/317",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/796",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/275",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/754",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/72",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155583_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/222",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 4_NEU",
+						"channel_code" : "SKYBL04",
+						"media_url_hls" : "http://livehlsit2-i.akamaihd.net/hls/live/262172/bulihd04/master.m3u8",
+						"apix_id" : 115285,
+						"event_id" : 93706461,
+						"package_code" : "OFBP",
+						"package_color_code" : "OFBP",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-1899-hoffenheim---werder-bremen--16--spieltag/asset/sportsection/756193.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756193.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/796/C_1_Picture_155583_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga 1899 Hoffenheim - Werder Bremen, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23987.png"
+					},
+					{
+						"id" : 756191,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga FC Bayern München - RB Leipzig, 16. Spieltag",
+						"subtitle" : "BL: FC Bayern München - RB Leipzig, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:45",
+								"end_time" : "22:05"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:05",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/132",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/432",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/490",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/969",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/448",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/927",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/406",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/885",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/203",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155580_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/199",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 2_NEU",
+						"channel_code" : "SKYBL02",
+						"media_url_hls" : "http://livehlsit2-i.akamaihd.net/hls/live/262170/bulihd02/master.m3u8",
+						"apix_id" : 115283,
+						"event_id" : 93706463,
+						"package_code" : "OFBS",
+						"package_color_code" : "OFBS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-fc-bayern-muenchen---rb-leipzig--16--spieltag/asset/sportsection/756191.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756191.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/927/C_1_Picture_155580_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga FC Bayern München - RB Leipzig, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22806.png"
+					},
+					{
+						"id" : 756194,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga FC Ingolstadt 04 - SC Freiburg, 16. Spieltag",
+						"subtitle" : "BL: FC Ingolstadt 04 - SC Freiburg, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:45",
+								"end_time" : "22:05"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:05",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/39",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/677",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/259",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/780",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/301",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/822",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/343",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/864",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/58",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155585_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/972",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 6_NEU",
+						"channel_code" : "SKYBL06",
+						"media_url_hls" : "http://livehlsit3-i.akamaihd.net/hls/live/262174/bulihd06/master.m3u8",
+						"apix_id" : 115286,
+						"event_id" : 93706460,
+						"package_code" : "OFBP",
+						"package_color_code" : "OFBP",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-fc-ingolstadt-04---sc-freiburg--16--spieltag/asset/sportsection/756194.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756194.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/822/C_1_Picture_155585_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga FC Ingolstadt 04 - SC Freiburg, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/24048.png"
+					},
+					{
+						"id" : 756192,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga Hertha BSC - SV Darmstadt 98, 16. Spieltag",
+						"subtitle" : "Live BL: Hertha BSC - SV Darmstadt 98, 16. Spieltag",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "19:45",
+								"end_time" : "22:05"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "22:05",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/357",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/49",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/681",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/160",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/639",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/118",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/597",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/76",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/210",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155581_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/824",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 5_NEU",
+						"channel_code" : "SKYBL05",
+						"media_url_hls" : "http://livehlsit2-i.akamaihd.net/hls/live/262173/bulihd05/master.m3u8",
+						"apix_id" : 115284,
+						"event_id" : 93706462,
+						"package_code" : "OFBP",
+						"package_color_code" : "OFBP",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-hertha-bsc---sv-darmstadt-98--16--spieltag/asset/sportsection/756192.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756192.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/118/C_1_Picture_155581_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga Hertha BSC - SV Darmstadt 98, 16. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/24046.png"
+					},
+					{
+						"id" : 756188,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga Alle Spiele, alle Tore: 16. Spieltag, Mittwoch",
+						"subtitle" : "Live BL: Alle Spiele, alle Tore: 16. Spieltag, Mittwoch",
+						"lenght" : 60,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "22:00",
+								"end_time" : "23:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "23:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/264",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/804",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/550",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/29",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/508",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/987",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/466",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/945",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/65",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155584_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/597",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 1_NEU",
+						"channel_code" : "SKYBL01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262178/bulihd01/master.m3u8",
+						"apix_id" : 115280,
+						"event_id" : 93706466,
+						"package_code" : "OFBS",
+						"package_color_code" : "OFBS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-alle-spiele--alle-tore--16--spieltag--mittwoch/asset/sportsection/756188.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756188.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/987/C_1_Picture_155584_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga Alle Spiele, alle Tore: 16. Spieltag, Mittwoch",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23986.png"
+					},
+					{
+						"id" : 756195,
+						"type" : "Sport",
+						"title" : "Insider - Die Sky Sport Dokumentation Generation Power Fußball - die Idee RB Leipzig - Teil 1",
+						"subtitle" : "Dokumentation: Generation Power Fußball - die Idee RB Leipzig - Teil 1",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/21",
+								"start_time" : "23:00",
+								"end_time" : "23:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/21",
+								"end_date" : "2016/12/29",
+								"start_time" : "23:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/814",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/138",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/228",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/707",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/186",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/665",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/144",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/623",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/51",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155586_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/653",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 35,
+								"apix_id" : "spo_mehr",
+								"content" : "Mehr Sport"
+							},
+							"other" : [ {
+								"id" : 13,
+								"content" : "Sport"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 1_NEU",
+						"channel_code" : "SKYBL01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262178/bulihd01/master.m3u8",
+						"apix_id" : 115590,
+						"event_id" : 93864721,
+						"package_code" : "OFBS",
+						"package_color_code" : "OFBS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/insider---die-sky-sport-dokumentation-generation-power-fussball---die-idee-rb-leipzig---teil-1/asset/sportsection/756195.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756195.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/665/C_1_Picture_155586_content_4.jpg",
+							"assetTitle" : "Insider - Die Sky Sport Dokumentation Generation Power Fußball - die Idee RB Leipzig - Teil 1",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23986.png"
+					},
+					{
+						"id" : 756196,
+						"type" : "Sport",
+						"title" : "Fußball: Bundesliga 16. Spieltag Kompakt",
+						"subtitle" : "BL: 16. Spieltag Kompakt",
+						"lenght" : 60,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/22",
+								"end_date" : "2016/12/22",
+								"start_time" : "18:00",
+								"end_time" : "19:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/22",
+								"end_date" : "2016/12/30",
+								"start_time" : "19:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/430",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/86",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/588",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/67",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/546",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/25",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/504",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/983",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/939",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155616_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/395",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 31,
+								"apix_id" : "spo_buli_buli",
+								"content" : "Bundesliga"
+							},
+							"other" : [ {
+								"id" : 3,
+								"content" : "Fußball Bundesliga"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Bundesliga 1_NEU",
+						"channel_code" : "SKYBL01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262178/bulihd01/master.m3u8",
+						"apix_id" : 115287,
+						"event_id" : 93710549,
+						"package_code" : "OFBS",
+						"package_color_code" : "OFBS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball-bundesliga/bundesliga/fussball--bundesliga-16--spieltag-kompakt/asset/sportsection/756196.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756196.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/25/C_1_Picture_155616_content_4.jpg",
+							"assetTitle" : "Fußball: Bundesliga 16. Spieltag Kompakt",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23986.png"
+					},
+					{
+						"id" : 756249,
+						"type" : "Sport",
+						"title" : "Eishockey: Österreich EBEL EC Red Bull Salzburg - EC Villacher SV, 34. Runde",
+						"subtitle" : "Eishockey: EC Red Bull Salzburg - EC Villacher SV, 34. Runde",
+						"lenght" : 135,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/23",
+								"end_date" : "2016/12/23",
+								"start_time" : "19:15",
+								"end_time" : "22:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/23",
+								"end_date" : "2016/12/31",
+								"start_time" : "22:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/250",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/666",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/340",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/819",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/298",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/777",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/256",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/735",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/429",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155685_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/205",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 12,
+								"apix_id" : "spo_mehr_eish",
+								"content" : "Eishockey"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 115586,
+						"event_id" : 93748092,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/eishockey/eishockey--oesterreich-ebel-ec-red-bull-salzburg---ec-villacher-sv--34--runde/asset/sportsection/756249.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756249.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/777/C_1_Picture_155685_content_4.jpg",
+							"assetTitle" : "Eishockey: Österreich EBEL EC Red Bull Salzburg - EC Villacher SV, 34. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756253,
+						"type" : "Sport",
+						"title" : "X-treme Porträt: Nadine Wallner (Extreme Ski)",
+						"subtitle" : "X-treme: Porträt: Nadine Wallner (Extreme Ski)",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2016/12/26",
+								"start_time" : "17:30",
+								"end_time" : "18:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2017/01/03",
+								"start_time" : "18:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/120",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/516",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/422",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/901",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/380",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/859",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/338",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/817",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/873",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155746_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/349",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 116142,
+						"event_id" : 94665295,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-portraet--nadine-wallner--extreme-ski-/asset/sportsection/756253.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756253.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/859/C_1_Picture_155746_content_4.jpg",
+							"assetTitle" : "X-treme Porträt: Nadine Wallner (Extreme Ski)",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756254,
+						"type" : "Sport",
+						"title" : "X-treme Snowboard: LAAX Freestyle",
+						"subtitle" : "X-treme: Snowboard: LAAX Freestyle",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2016/12/26",
+								"start_time" : "18:00",
+								"end_time" : "18:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2017/01/03",
+								"start_time" : "18:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/345",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/35",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/387",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/908",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/429",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/950",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/471",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/992",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/866",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155747_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/724",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 116519,
+						"event_id" : 94665294,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-snowboard--laax-freestyle/asset/sportsection/756254.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756254.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/950/C_1_Picture_155747_content_4.jpg",
+							"assetTitle" : "X-treme Snowboard: LAAX Freestyle",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756252,
+						"type" : "Sport",
+						"title" : "Basketball: Österreich Redwell Gunners Oberwart - Swans Gmunden, 15. Runde",
+						"subtitle" : "Basketball: Redwell Gunners Oberwart - Swans Gmunden, 15. Runde",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2016/12/26",
+								"start_time" : "18:45",
+								"end_time" : "21:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/26",
+								"end_date" : "2017/01/03",
+								"start_time" : "21:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/895",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/299",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/65",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/586",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/107",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/628",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/149",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/670",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/880",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155745_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/974",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 40,
+								"apix_id" : "spo_mehr_basket",
+								"content" : "Basketball"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport Austria_NEU",
+						"channel_code" : "SKYSPAT",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262179/sport-at/master.m3u8",
+						"apix_id" : 115888,
+						"event_id" : 93980952,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/basketball/basketball--oesterreich-redwell-gunners-oberwart---swans-gmunden--15--runde/asset/sportsection/756252.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756252.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/628/C_1_Picture_155745_content_4.jpg",
+							"assetTitle" : "Basketball: Österreich Redwell Gunners Oberwart - Swans Gmunden, 15. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23991.png"
+					},
+					{
+						"id" : 756258,
+						"type" : "Sport",
+						"title" : "X-treme Mountainbike: Cape Epic 2016 - Rennen Frauen & Männer",
+						"subtitle" : "X-treme: Mountainbike: Cape Epic 2016 - Rennen Frauen & Männer",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/27",
+								"end_date" : "2016/12/27",
+								"start_time" : "23:00",
+								"end_time" : "23:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/27",
+								"end_date" : "2017/01/04",
+								"start_time" : "23:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/143",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/563",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/435",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/956",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/477",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/998",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/519",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/40",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/6",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155750_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/612",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116141,
+						"event_id" : 94665415,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-mountainbike--cape-epic-2016---rennen-frauen--maenner/asset/sportsection/756258.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756258.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/998/C_1_Picture_155750_content_4.jpg",
+							"assetTitle" : "X-treme Mountainbike: Cape Epic 2016 - Rennen Frauen & Männer",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756259,
+						"type" : "Sport",
+						"title" : "X-treme Berglauf & Doku: BUFF Epic Trail 2016 & Phänomen Ironman",
+						"subtitle" : "X-treme: Berglauf & Doku: BUFF Epic Trail 2016 & Phänomen Ironman",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/27",
+								"end_date" : "2016/12/28",
+								"start_time" : "23:30",
+								"end_time" : "00:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2017/01/04",
+								"start_time" : "00:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/693",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/399",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/757",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/278",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/799",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/320",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/841",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/362",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/20",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155752_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/362",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116143,
+						"event_id" : 94665416,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-berglauf--doku--buff-epic-trail-2016--phaenomen-ironman/asset/sportsection/756259.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756259.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/320/C_1_Picture_155752_content_4.jpg",
+							"assetTitle" : "X-treme Berglauf & Doku: BUFF Epic Trail 2016 & Phänomen Ironman",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756884,
+						"type" : "Sport",
+						"title" : "X-treme Luftsport: FAI European Aerobatic Championships & Gordon Bennett Cup",
+						"subtitle" : "X-treme: Luftsport: FAI European Aerobatic Championships & Gordon Bennett Cup",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2016/12/28",
+								"start_time" : "00:00",
+								"end_time" : "00:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2017/01/05",
+								"start_time" : "00:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/602",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/630",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/524",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/3",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/482",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/961",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/440",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/919",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/85",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156433_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/653",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116596,
+						"event_id" : 94878064,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-luftsport--fai-european-aerobatic-championships--gordon-bennett-cup/asset/sportsection/756884.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756884.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/961/C_1_Picture_156433_content_4.jpg",
+							"assetTitle" : "X-treme Luftsport: FAI European Aerobatic Championships & Gordon Bennett Cup",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756885,
+						"type" : "Sport",
+						"title" : "X-treme Klettersport & Kajak: adidas Rockstars 2016 & adidas Sickline 2016",
+						"subtitle" : "X-treme: Klettersport & Kajak: adidas Rockstars 2016 & adidas Sickline 2016",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2016/12/28",
+								"start_time" : "00:30",
+								"end_time" : "01:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2017/01/05",
+								"start_time" : "01:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/827",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/111",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/715",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/194",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/673",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/152",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/631",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/110",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/204",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156434_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/278",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116597,
+						"event_id" : 94878063,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-klettersport--kajak--adidas-rockstars-2016--adidas-sickline-2016/asset/sportsection/756885.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756885.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/152/C_1_Picture_156434_content_4.jpg",
+							"assetTitle" : "X-treme Klettersport & Kajak: adidas Rockstars 2016 & adidas Sickline 2016",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756424,
+						"type" : "Sport",
+						"title" : "Fußball: England, LFC TV u.a. Liverpool - Stoke",
+						"subtitle" : "LFC TV: u.a. Liverpool - Stoke",
+						"lenght" : 165,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2016/12/28",
+								"start_time" : "19:00",
+								"end_time" : "21:45"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "",
+								"end_date" : "2016/12/29",
+								"start_time" : "00:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/498",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/762",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/968",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/447",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/926",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/405",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/884",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/363",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/223",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155942_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/801",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 10,
+								"apix_id" : "spo_fuba",
+								"content" : "Fußball"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116156,
+						"event_id" : 94110942,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball/fussball--england--lfc-tv-u-a--liverpool---stoke/asset/sportsection/756424.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756424.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/405/C_1_Picture_155942_content_4.jpg",
+							"assetTitle" : "Fußball: England, LFC TV u.a. Liverpool - Stoke",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756423,
+						"type" : "Sport",
+						"title" : "Eishockey: Österreich EBEL EC Villacher SV - EC Klagerfurter AC, 36. Runde",
+						"subtitle" : "Eishockey: EC Villacher SV - EC Klagerfurter AC, 36. Runde",
+						"lenght" : 135,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2016/12/28",
+								"start_time" : "19:15",
+								"end_time" : "22:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/28",
+								"end_date" : "2017/01/05",
+								"start_time" : "22:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/348",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/200",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/710",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/231",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/752",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/273",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/794",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/315",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/59",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_155940_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/551",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 12,
+								"apix_id" : "spo_mehr_eish",
+								"content" : "Eishockey"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 115884,
+						"event_id" : 93980822,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/eishockey/eishockey--oesterreich-ebel-ec-villacher-sv---ec-klagerfurter-ac--36--runde/asset/sportsection/756423.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756423.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/273/C_1_Picture_155940_content_4.jpg",
+							"assetTitle" : "Eishockey: Österreich EBEL EC Villacher SV - EC Klagerfurter AC, 36. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 755499,
+						"type" : "Sport",
+						"title" : "Golf Golfszene Deutschland 2016",
+						"subtitle" : "Golf: Golfszene Deutschland 2016",
+						"lenght" : 15,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/29",
+								"end_date" : "2016/12/29",
+								"start_time" : "05:45",
+								"end_time" : "06:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/29",
+								"end_date" : "2017/01/06",
+								"start_time" : "06:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/517",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/177",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/807",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/328",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/849",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/370",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/891",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/412",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/222",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_154027_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/352",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 4,
+								"apix_id" : "spo_golf",
+								"content" : "Golf"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 115966,
+						"event_id" : 94166463,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/golf/golf-golfszene-deutschland-2016/asset/sportsection/755499.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/755499.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/370/C_1_Picture_154027_content_4.jpg",
+							"assetTitle" : "Golf Golfszene Deutschland 2016",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756580,
+						"type" : "Sport",
+						"title" : "Basketball: Österreich Arkadia Traiskirchen Lions - UBSC Raiffeisen Graz, 16. Runde",
+						"subtitle" : "Basketball: Arkadia Traiskirchen Lions - UBSC Raiffeisen Graz, 16. Runde",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/29",
+								"end_date" : "2016/12/29",
+								"start_time" : "18:45",
+								"end_time" : "21:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/29",
+								"end_date" : "2017/01/06",
+								"start_time" : "21:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/995",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/543",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/577",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/56",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/535",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/14",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/493",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/972",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/146",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156029_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/792",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 40,
+								"apix_id" : "spo_mehr_basket",
+								"content" : "Basketball"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport Austria_NEU",
+						"channel_code" : "SKYSPAT",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262179/sport-at/master.m3u8",
+						"apix_id" : 115889,
+						"event_id" : 93980951,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/basketball/basketball--oesterreich-arkadia-traiskirchen-lions---ubsc-raiffeisen-graz--16--runde/asset/sportsection/756580.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756580.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/14/C_1_Picture_156029_content_4.jpg",
+							"assetTitle" : "Basketball: Österreich Arkadia Traiskirchen Lions - UBSC Raiffeisen Graz, 16. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23991.png"
+					},
+					{
+						"id" : 756581,
+						"type" : "Sport",
+						"title" : "X-treme Ski & Snowboard: 9 Queens",
+						"subtitle" : "X-treme: Ski & Snowboard: 9 Queens",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2016/12/30",
+								"start_time" : "00:00",
+								"end_time" : "00:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2017/01/07",
+								"start_time" : "00:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/637",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/263",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/149",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/670",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/191",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/712",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/233",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/754",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/292",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156030_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/366",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116520,
+						"event_id" : 94665388,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-ski--snowboard--9-queens/asset/sportsection/756581.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756581.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/712/C_1_Picture_156030_content_4.jpg",
+							"assetTitle" : "X-treme Ski & Snowboard: 9 Queens",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756582,
+						"type" : "Sport",
+						"title" : "X-treme Rennrodeln: Natural Track Luge World Cup Österreich",
+						"subtitle" : "X-treme: Rennrodeln: Natural Track Luge World Cup Österreich",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2016/12/30",
+								"start_time" : "00:30",
+								"end_time" : "01:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2017/01/07",
+								"start_time" : "01:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/588",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/552",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/338",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/817",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/296",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/775",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/254",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/733",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/285",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156031_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/991",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116521,
+						"event_id" : 94665387,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-rennrodeln--natural-track-luge-world-cup-oesterreich/asset/sportsection/756582.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756582.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/775/C_1_Picture_156031_content_4.jpg",
+							"assetTitle" : "X-treme Rennrodeln: Natural Track Luge World Cup Österreich",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756637,
+						"type" : "Sport",
+						"title" : "Fußball: UEFA Europa League AUT-Alle Spiele, alle Tore: Gruppenphase 1. Spieltag",
+						"subtitle" : "UEFA EL: AUT-Alle Spiele, alle Tore: Gruppenphase 1. Spieltag",
+						"lenght" : 60,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2016/12/30",
+								"start_time" : "08:00",
+								"end_time" : "09:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2017/01/07",
+								"start_time" : "09:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/908",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/296",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/542",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/63",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/584",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/105",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/626",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/147",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/771",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156039_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/695",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 34,
+								"apix_id" : "spo_fuba_eul",
+								"content" : "Europa League"
+							},
+							"other" : [ {
+								"id" : 10,
+								"content" : "Fußball"
+							} ]
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport Austria_NEU",
+						"channel_code" : "SKYSPAT",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262179/sport-at/master.m3u8",
+						"apix_id" : 116139,
+						"event_id" : 94060733,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball/europa-league/fussball--uefa-europa-league-aut-alle-spiele--alle-tore--gruppenphase-1--spieltag/asset/sportsection/756637.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756637.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/105/C_1_Picture_156039_content_4.jpg",
+							"assetTitle" : "Fußball: UEFA Europa League AUT-Alle Spiele, alle Tore: Gruppenphase 1. Spieltag",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23991.png"
+					},
+					{
+						"id" : 756636,
+						"type" : "Sport",
+						"title" : "Eishockey: Österreich EBEL HC Innsbruck - EC Liwest Black Wings Linz, 37. Runde",
+						"subtitle" : "Eishockey: HC Innsbruck - EC Liwest Black Wings Linz, 37. Runde",
+						"lenght" : 135,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2016/12/30",
+								"start_time" : "19:15",
+								"end_time" : "22:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/30",
+								"end_date" : "2017/01/07",
+								"start_time" : "22:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/133",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/777",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/733",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/254",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/775",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/296",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/817",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/338",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/764",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156038_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/70",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 12,
+								"apix_id" : "spo_mehr_eish",
+								"content" : "Eishockey"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 115885,
+						"event_id" : 93980821,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/eishockey/eishockey--oesterreich-ebel-hc-innsbruck---ec-liwest-black-wings-linz--37--runde/asset/sportsection/756636.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756636.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/296/C_1_Picture_156038_content_4.jpg",
+							"assetTitle" : "Eishockey: Österreich EBEL HC Innsbruck - EC Liwest Black Wings Linz, 37. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756886,
+						"type" : "Sport",
+						"title" : "X-treme Cablewakeboard: IWWF World Championships - Frauen & Männer",
+						"subtitle" : "X-treme: Cablewakeboard: IWWF World Championships - Frauen & Männer",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/31",
+								"end_date" : "2016/12/31",
+								"start_time" : "00:00",
+								"end_time" : "00:30"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/31",
+								"end_date" : "2017/01/08",
+								"start_time" : "00:30",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/523",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/239",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/955",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/434",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/913",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/392",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/871",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/350",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/636",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/582",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116598,
+						"event_id" : 94878062,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-cablewakeboard--iwwf-world-championships---frauen--maenner/asset/sportsection/756886.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756886.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/392/C_1_Picture_46575_content_4.jpg",
+							"assetTitle" : "X-treme Cablewakeboard: IWWF World Championships - Frauen & Männer",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756887,
+						"type" : "Sport",
+						"title" : "X-treme Porträts: Aurelien Routens & Nadine Wallner",
+						"subtitle" : "X-treme: Porträts: Aurelien Routens & Nadine Wallner",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2016/12/31",
+								"end_date" : "2016/12/31",
+								"start_time" : "00:30",
+								"end_time" : "01:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2016/12/31",
+								"end_date" : "2017/01/08",
+								"start_time" : "01:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/523",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/239",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/955",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/434",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/913",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/392",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/871",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/350",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/636",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_46575_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/582",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 44,
+								"apix_id" : "spo_mehr_xtreme",
+								"content" : "X-treme"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116599,
+						"event_id" : 94878061,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/x-treme/x-treme-portraets--aurelien-routens--nadine-wallner/asset/sportsection/756887.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756887.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/392/C_1_Picture_46575_content_4.jpg",
+							"assetTitle" : "X-treme Porträts: Aurelien Routens & Nadine Wallner",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756755,
+						"type" : "Sport",
+						"title" : "Fußball: England, LFC TV u.a. Liverpool - Man City & Sunderland - Liverpool",
+						"subtitle" : "LFC TV: u.a. Liverpool - Man City & Sunderland - Liverpool",
+						"lenght" : 165,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2017/01/03",
+								"end_date" : "2017/01/03",
+								"start_time" : "19:00",
+								"end_time" : "21:45"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "",
+								"end_date" : "2017/01/04",
+								"start_time" : "00:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/7",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/861",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/835",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/356",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/877",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/398",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/919",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/440",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/886",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156270_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/780",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 10,
+								"apix_id" : "spo_fuba",
+								"content" : "Fußball"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 2_NEU",
+						"channel_code" : "SKYSP02",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262181/sporth02/master.m3u8",
+						"apix_id" : 116158,
+						"event_id" : 94110938,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/fussball/fussball--england--lfc-tv-u-a--liverpool---man-city--sunderland---liverpool/asset/sportsection/756755.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756755.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/398/C_1_Picture_156270_content_4.jpg",
+							"assetTitle" : "Fußball: England, LFC TV u.a. Liverpool - Man City & Sunderland - Liverpool",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22758.png"
+					},
+					{
+						"id" : 756754,
+						"type" : "Sport",
+						"title" : "Eishockey: Österreich EBEL EC Klagerfurter AC - EC Red Bull Salzburg, 39. Runde",
+						"subtitle" : "Eishockey: EC Klagerfurter AC - EC Red Bull Salzburg, 39. Runde",
+						"lenght" : 135,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2017/01/03",
+								"end_date" : "2017/01/03",
+								"start_time" : "19:15",
+								"end_time" : "22:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2017/01/03",
+								"end_date" : "2017/01/11",
+								"start_time" : "22:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/365",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/945",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/891",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/370",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/849",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/328",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/807",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/286",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/972",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156269_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/918",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 12,
+								"apix_id" : "spo_mehr_eish",
+								"content" : "Eishockey"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 115886,
+						"event_id" : 93980959,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/eishockey/eishockey--oesterreich-ebel-ec-klagerfurter-ac---ec-red-bull-salzburg--39--runde/asset/sportsection/756754.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756754.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/328/C_1_Picture_156269_content_4.jpg",
+							"assetTitle" : "Eishockey: Österreich EBEL EC Klagerfurter AC - EC Red Bull Salzburg, 39. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756881,
+						"type" : "Sport",
+						"title" : "Basketball: Österreich WBC Raiffeisen Wels - Arkadia Traiskirchen Lions, 17. Runde",
+						"subtitle" : "Basketball: WBC Raiffeisen Wels - Arkadia Traiskirchen Lions, 17. Runde",
+						"lenght" : 120,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2017/01/05",
+								"end_date" : "2017/01/05",
+								"start_time" : "18:45",
+								"end_time" : "21:15"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2017/01/05",
+								"end_date" : "2017/01/13",
+								"start_time" : "21:15",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/73",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/483",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/655",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/134",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/613",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/92",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/571",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/50",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/64",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156430_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/222",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 40,
+								"apix_id" : "spo_mehr_basket",
+								"content" : "Basketball"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport Austria_NEU",
+						"channel_code" : "SKYSPAT",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262179/sport-at/master.m3u8",
+						"apix_id" : 115890,
+						"event_id" : 93980954,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/mehr-sport/basketball/basketball--oesterreich-wbc-raiffeisen-wels---arkadia-traiskirchen-lions--17--runde/asset/sportsection/756881.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756881.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/92/C_1_Picture_156430_content_4.jpg",
+							"assetTitle" : "Basketball: Österreich WBC Raiffeisen Wels - Arkadia Traiskirchen Lions, 17. Runde",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/23991.png"
+					},
+					{
+						"id" : 756883,
+						"type" : "Sport",
+						"title" : "Golf: US PGA Magazin Inside the PGA Tour",
+						"subtitle" : "Golf US PGA Tour: Inside the PGA Tour",
+						"lenght" : 30,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2017/01/06",
+								"end_date" : "2017/01/06",
+								"start_time" : "00:30",
+								"end_time" : "01:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2017/01/06",
+								"end_date" : "2017/01/14",
+								"start_time" : "01:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "no",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/377",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/851",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/963",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/484",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/5",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/526",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/47",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/568",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/78",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156432_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/972",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 4,
+								"apix_id" : "spo_golf",
+								"content" : "Golf"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 116166,
+						"event_id" : 94163860,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/golf/golf--us-pga-magazin-inside-the-pga-tour/asset/sportsection/756883.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756883.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/526/C_1_Picture_156432_content_4.jpg",
+							"assetTitle" : "Golf: US PGA Magazin Inside the PGA Tour",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					},
+					{
+						"id" : 756882,
+						"type" : "Sport",
+						"title" : "Golf: US PGA Tour Tournament of Champions, 1. Tag in Kapalua, Hawaii (USA)",
+						"subtitle" : "Golf: Tournament of Champions, 1. Tag in Kapalua, Hawaii (USA)",
+						"lenght" : 180,
+						"current_type" : "Live",
+						"technical_event" : {
+							"on_air" : {
+								"start_date" : "2017/01/06",
+								"end_date" : "2017/01/06",
+								"start_time" : "01:00",
+								"end_time" : "04:00"
+							},
+							"program" : {
+								"start_date" : "",
+								"end_date" : "",
+								"start_time" : "",
+								"end_time" : ""
+							},
+							"sport" : {
+								"start_date" : "2017/01/06",
+								"end_date" : "2017/01/14",
+								"start_time" : "04:00",
+								"end_time" : "00:00"
+							}
+						},
+						"flag_live" : "yes",
+						"flag_simulcast" : "yes",
+						"parental_rating" : {
+							"value" : 1,
+							"display" : ""
+						},
+						"main_picture" : {
+							"picture" : [
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_videowall_home.jpg",
+										"height" : 126,
+										"path" : "/bin/Picture/848",
+										"type" : "videowall_home",
+										"width" : 225
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_videowall_landing.jpg",
+										"height" : 112,
+										"path" : "/bin/Picture/332",
+										"type" : "videowall_landing",
+										"width" : 201
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_1.jpg",
+										"height" : 110,
+										"path" : "/bin/Picture/846",
+										"type" : "content_1",
+										"width" : 196
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_2.jpg",
+										"height" : 226,
+										"path" : "/bin/Picture/325",
+										"type" : "content_2",
+										"width" : 402
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_3.jpg",
+										"height" : 342,
+										"path" : "/bin/Picture/804",
+										"type" : "content_3",
+										"width" : 608
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_4.jpg",
+										"height" : 383,
+										"path" : "/bin/Picture/283",
+										"type" : "content_4",
+										"width" : 680
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_5.jpg",
+										"height" : 187,
+										"path" : "/bin/Picture/762",
+										"type" : "content_5",
+										"width" : 332
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_content_6.jpg",
+										"height" : 149,
+										"path" : "/bin/Picture/241",
+										"type" : "content_6",
+										"width" : 265
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_gallery.jpg",
+										"height" : 152,
+										"path" : "/bin/Picture/71",
+										"type" : "gallery",
+										"width" : 270
+									},
+									{
+										"contenttype" : "image/jpeg",
+										"file" : "C_1_Picture_156431_hero_img.jpg",
+										"height" : 1152,
+										"path" : "/bin/Picture/597",
+										"type" : "hero_img",
+										"width" : 2048
+									} ]
+						},
+						"category" : {
+							"main" : {
+								"id" : 4,
+								"apix_id" : "spo_golf",
+								"content" : "Golf"
+							},
+							"other" : []
+						},
+						"main_root_category" : {
+							"id" : 13,
+							"apix_id" : "sport",
+							"content" : "Sport"
+						},
+						"asset_type" : "Sport",
+						"channel_name" : "Sky Sport 1_NEU",
+						"channel_code" : "SKYSP01",
+						"media_url_hls" : "http://livehlsit1-i.akamaihd.net/hls/live/262180/sporth01/master.m3u8",
+						"apix_id" : 116162,
+						"event_id" : 94147177,
+						"package_code" : "OSPS",
+						"package_color_code" : "OSPS",
+						"webvod_canonical_url" : "http://www.skygo.sky.de/sport/golf/golf--us-pga-tour-tournament-of-champions--1--tag-in-kapalua--hawaii--usa-/asset/sportsection/756882.html",
+						"license" : {
+							"internet" : 1,
+							"mobile" : 0
+						},
+						"socialGroupIds" : {
+							"social" : [ {
+								"id" : 12
+							}, {
+								"id" : 5
+							}, {
+								"id" : 11
+							}, {
+								"id" : 3
+							}, {
+								"id" : 9
+							}, {
+								"id" : 10
+							} ]
+						},
+						"webplayer_config" : {
+							"playlistUri" : "/sg/multiplatform/web/xml/player_playlist/asset/756882.xml",
+							"isVod" : false,
+							"showLiveIcon" : true,
+							"isHd" : true,
+							"contentType" : "LIVE",
+							"productOwner" : "SKYGO",
+							"assetThumbnail" : "/bin/Picture/283/C_1_Picture_156431_content_4.jpg",
+							"assetTitle" : "Golf: US PGA Tour Tournament of Champions, 1. Tag in Kapalua, Hawaii (USA)",
+							"seriesId" : 0
+						},
+						"logo" : "/sg/bin/ImageRepository/web/channel/22757.png"
+					} ]
+		}
+	},
+	"product" : "BW"
+}
