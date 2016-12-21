@@ -33,7 +33,6 @@ class SkyGoVideo(object):
         fanart = _SKYGO_MAIN_URL + self.fanart['path'] + '/' + self.fanart['file'] 
         listItem.setArt({'thumb': thumb, 'icon': thumb, 'fanart': fanart})
         page = self.page
-        #TODO url
         url = 'plugin://plugin.program.chrome.launcher/?url=' + page + '&mode=showSite&stopPlayback=no'
         
         return (url, listItem, False)

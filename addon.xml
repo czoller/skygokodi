@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.skygokodi"
-version="1.0.3"
-name="SkyGo Live"
+version="1.0.4"
+name="SkyGo Sport Live"
 provider-name="NaZo">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
@@ -11,7 +11,7 @@ provider-name="NaZo">
 </extension>
 <extension point="xbmc.addon.metadata">
   <summary lang="de">SkyGo Sport Live Video Plugin</summary>
-  <description lang="de">Listet aktuelle Sport-Live-Events von SkyGo und öffnet die entsprechende Webseiten in Firefox.</description>
-  <disclaimer lang="de">Benötigt das Advanced Laucher addon.</disclaimer>
+  <description lang="de">Listet aktuelle Sport-Live-Events von SkyGo und öffnet die entsprechende Webseiten in Chrome.</description>
+  <disclaimer lang="de">Benötigt das Chrome Laucher addon.</disclaimer>
 </extension>
 </addon>
