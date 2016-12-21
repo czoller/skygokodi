@@ -9,11 +9,7 @@ import xbmcplugin
 import urllib
 import json
 
-_URL = sys.argv[0]
 _HANDLE = int(sys.argv[1])
-_WIN = xbmcgui.Window()
-_WERDER_URL = 'http://www.werder.de'
-
 _SKYGO_MAIN_URL = 'http://www.skygo.sky.de';
 _SKYGO_LIVEPLANER_URL = 'http://www.skygo.sky.de/sg/multiplatform/web/json/automatic_listing/sport/event/13.json';
 
