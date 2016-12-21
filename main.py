@@ -37,6 +37,9 @@ class SkyGoVideo(object):
         url = 'plugin://plugin.program.chrome.launcher/?url=' + page + '&mode=showSite&stopPlayback=no'
         
         return (url, listItem, False)
+    
+def toListItem(skygoObject):
+    return skygoObject.toListItem()
 
 def loadVideoList():
     
