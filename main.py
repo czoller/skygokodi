@@ -20,7 +20,7 @@ class SkyGoVideo(object):
         
         self.title = json['title'];
         self.thumb = json['main_picture']['picture'][3];
-        self.fanart = json['main_picture']['picture'][9];
+#        self.fanart = json['main_picture']['picture'][9];
         self.date = json['technical_event']['on_air']['start_date'].replace('/', '-');
         self.category = json['category']['main']['content'];
         self.page = json['webvod_canonical_url']
