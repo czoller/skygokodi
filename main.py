@@ -15,12 +15,18 @@ _SKYGO_LIVEPLANER_URL = 'http://www.skygo.sky.de/sg/multiplatform/web/json/autom
 
 
 class SkyGoVideo(object):
-    
     def __init__(self, json):
         
         self.title = json['title'];
-        self.thumb = json['main_picture']['picture'][3];
-#        self.fanart = json['main_picture']['picture'][9];
+        pictures = json['main_picture']['picture']
+        if len(pictures) > 3:
+            self.thumb = json['main_picture']['picture'][3];
+        else: 
+            self.thumb = None
+        if len(pictures) > 9:
+            self.fanart = json['main_picture']['picture'][9]
+        else:
+            self.fanart = None
         self.date = json['technical_event']['on_air']['start_date'].replace('/', '-');
         self.category = json['category']['main']['content'];
         self.page = json['webvod_canonical_url']
@@ -29,8 +35,14 @@ class SkyGoVideo(object):
         listItem = xbmcgui.ListItem(label=self.title)
         listItem.setInfo('video', {'title': self.title, 'genre': self.category, 'date': self.date})
         listItem.setProperty('IsPlayable', 'true')
-        thumb = _SKYGO_MAIN_URL + self.thumb['path'] + '/' + self.thumb['file'] 
-        fanart = _SKYGO_MAIN_URL + self.fanart['path'] + '/' + self.fanart['file'] 
+        if self.thumb:
+            thumb = _SKYGO_MAIN_URL + self.thumb['path'] + '/' + self.thumb['file'] 
+        else: 
+            thumb = None
+        if self.fanart:
+            fanart = _SKYGO_MAIN_URL + self.fanart['path'] + '/' + self.fanart['file'] 
+        else:
+            fanart = None
         listItem.setArt({'thumb': thumb, 'icon': thumb, 'fanart': fanart})
         page = self.page
         url = 'plugin://plugin.program.chrome.launcher/?url=' + page + '&mode=showSite&stopPlayback=no'
